@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "764352376468",
+    "project_id": "chamasoft-lite",
+    "storage_bucket": "chamasoft-lite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764352376468:android:ba6c5b0d9f2b827ee94e81",
+        "android_client_info": {
+          "package_name": "com.example.notifications_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764352376468-mntusa3mdpbkvb8610vjo3idum7ksrg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS_B0Lw3PTqqB6TJfk3hzWSfIAWh7I0zA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764352376468-mntusa3mdpbkvb8610vjo3idum7ksrg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764352376468-03m77rh6tjvh1u95b7oo9nvlbeu9pddp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notificationsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
